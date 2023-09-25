@@ -1,60 +1,56 @@
 {
-    "chaves": {
-        "pagina": 1,
-        "quantidade": 5,
-        "dados": [
-            {
-                "id": 1,
-                "nome": "Chaves",
-                "ator": "Roberto Gómez Bolaños",
-                "urlImagem": "https://raw.githubusercontent.com/orionteles/chavo/master/img/chaves.jpg",
-                "urlImagemCrianca": "https://raw.githubusercontent.com/orionteles/chavo/master/img/chavesBB.jpg",
-                "sexo": "Masculino",
-                "idade": "8 anos",
-                "endereco": "Casa nº 8",
-                "biografia": "El Chavo del Ocho (Chaves no Brasil; Xavier em Portugal) é um personagem fictício mexicano e protagonista da série de televisão cômica mexicana de mesmo nome. É um órfão de oito anos de idade, interpretado por Roberto Gómez Bolaños (1929-2014), apesar da óbvia diferença de idade entre o ator e o personagem, e na série animada sua voz é interpretada por Jesús Guzmán. 'Chavo' significa 'menino' na língua mexicana coloquial, seu nome verdadeiro é desconhecido"
-            },
-            {
-                "id": 2,
-                "nome": "Quico",
-                "ator": "Carlos Villagrán",
-                "urlImagem": "https://raw.githubusercontent.com/orionteles/chavo/master/img/kiko.jpg",
-                "urlImagemCrianca": "https://raw.githubusercontent.com/orionteles/chavo/master/img/kikoBB.jpg",
-                "sexo": "Masculino",
-                "idade": "9 anos",
-                "endereco": "Casa nº 14",
-                "biografia": "Quico ou Kiko, cujo nome completo é Frederico Mátalas Callando Corcuera ou Frederico Bardón de la Regueira (ambos são considerados convenientes, por não se saber exatamente qual dos dois é o correto), é um personagem fictício da série de televisão mexicana El Chavo del Ocho, interpretado por Carlos Villagrán - até a atualidade identificado e famoso pelo seu personagem. e na versão animada sua voz é fornecida por Sebastián Llapur."
-            },
-            {
-                "id": 3,
-                "nome": "Chiquinha",
-                "ator": "Maria Antonieta de las Nieves",
-                "urlImagem": "https://raw.githubusercontent.com/orionteles/chavo/master/img/chiquinha.jpg",
-                "urlImagemCrianca": "https://raw.githubusercontent.com/orionteles/chavo/master/img/chiquinhaBB.jpg",
-                "sexo": "Feminino",
-                "endereco": "Casa nº 12",
-                "biografia": "Chiquinha (La Chilindrina, no original) é uma personagem do seriado Chaves. Filha de Seu Madruga, é uma garota levada, esperta, mas de bom coração. Em alguns episódios, demonstra algum interesse amoroso por Chaves, principalmente naqueles em que aparece a personagem Paty, da qual enfrenta concorrência. Também tem ciúmes do pai, porque faz de tudo para tirar qualquer mulher que apareça para ele, principalmente a Dona Clotilde, em seguida a Louca da Escada ou Glória. Apesar desse negativismo, chegou a ajudar alguns personagens, como Chaves, em um episódio que ela lhe dá o seu algodão-doce."
-            },
-            {
-                "id": 4,
-                "nome": "Nhonho (Ñoño)",
-                "ator": "Édgar Vivar",
-                "urlImagem": "https://raw.githubusercontent.com/orionteles/chavo/master/img/n.jpg",
-                "urlImagemCrianca": "https://raw.githubusercontent.com/orionteles/chavo/master/img/nBB.jpg",
-                "sexo": "Masculino",
-                "endereco": "Mansão do Senhor Barriga",
-                "biografia": "Filho do Senhor Barriga, adora comer. É muito usado para cobrir a ausência de um personagem, como a Chiquinha entre 1974 e 1975 e também na série animada, ou Quico em 1979 e nas sketchs do Programa Chespirito. É estudioso, sempre sendo o 1° da classe, mas às vezes dá umas mancadas. É também bastante egoísta, quando o assunto é comida, entretanto, costuma dividir com o Chaves livros, brinquedos e dinheiro, demonstrando assim, ser mais caridoso com o garoto órfão do que o Quico. O Nhonho, do mesmo jeito que seu pai, é alvo de piadas ligadas a sua obesidade. Quando alguém o xinga, ele usa o seguinte bordão: 'Olha ele (a), hem!' e também 'Ai minhas costas/meu estômago', quando é acertado por algum objeto."
-            },
-            {
-                "id": 5,
-                "nome": "Pópis",
-                "ator": "Florinda Meza",
-                "urlImagem": "https://raw.githubusercontent.com/orionteles/chavo/master/img/Popis.png",
-                "urlImagemCrianca": "https://raw.githubusercontent.com/orionteles/chavo/master/img/PopisBB.png",
-                "sexo": "Masculino",
-                "endereco": "Casa nº 8",
-                "biografia": "Uma garota mimada e de voz fanha, é sobrinha de Dona Florinda e prima do Quico. Sempre traz consigo a sua boneca Serafina. É muito vaidosa e algumas vezes quer mandar nos outros, sendo aproveitadora dos brinquedos do Quico. Devido a uma polêmica envolvendo sua voz fanha, ela teve de ser retirada do seriado por um tempo[carece de fontes] e retornou depois de um ano. Seus bordões são: 'Vai contar pra sua mãe, (personagem, geralmente Quico, no caso de Nhonho, Pópis diz pra este contar para seu pai.)', 'Mas eu vou te acusar!', 'Eu vou contar tudo para minha mãe!'"
-            }
-        ]
-    }
+    "v1": [
+        {
+            "id": 1,
+            "nome": "Chaves",
+            "ator": "Roberto Gómez Bolaños",
+            "urlImagem": "https://raw.githubusercontent.com/orionteles/chavo/master/img/chaves.jpg",
+            "urlImagemCrianca": "https://raw.githubusercontent.com/orionteles/chavo/master/img/chavesBB.jpg",
+            "sexo": "Masculino",
+            "idade": "8 anos",
+            "endereco": "Casa nº 8",
+            "biografia": "El Chavo del Ocho (Chaves no Brasil; Xavier em Portugal) é um personagem fictício mexicano e protagonista da série de televisão cômica mexicana de mesmo nome. É um órfão de oito anos de idade, interpretado por Roberto Gómez Bolaños (1929-2014), apesar da óbvia diferença de idade entre o ator e o personagem, e na série animada sua voz é interpretada por Jesús Guzmán. 'Chavo' significa 'menino' na língua mexicana coloquial, seu nome verdadeiro é desconhecido"
+        },
+        {
+            "id": 2,
+            "nome": "Quico",
+            "ator": "Carlos Villagrán",
+            "urlImagem": "https://raw.githubusercontent.com/orionteles/chavo/master/img/kiko.jpg",
+            "urlImagemCrianca": "https://raw.githubusercontent.com/orionteles/chavo/master/img/kikoBB.jpg",
+            "sexo": "Masculino",
+            "idade": "9 anos",
+            "endereco": "Casa nº 14",
+            "biografia": "Quico ou Kiko, cujo nome completo é Frederico Mátalas Callando Corcuera ou Frederico Bardón de la Regueira (ambos são considerados convenientes, por não se saber exatamente qual dos dois é o correto), é um personagem fictício da série de televisão mexicana El Chavo del Ocho, interpretado por Carlos Villagrán - até a atualidade identificado e famoso pelo seu personagem. e na versão animada sua voz é fornecida por Sebastián Llapur."
+        },
+        {
+            "id": 3,
+            "nome": "Chiquinha",
+            "ator": "Maria Antonieta de las Nieves",
+            "urlImagem": "https://raw.githubusercontent.com/orionteles/chavo/master/img/chiquinha.jpg",
+            "urlImagemCrianca": "https://raw.githubusercontent.com/orionteles/chavo/master/img/chiquinhaBB.jpg",
+            "sexo": "Feminino",
+            "endereco": "Casa nº 12",
+            "biografia": "Chiquinha (La Chilindrina, no original) é uma personagem do seriado Chaves. Filha de Seu Madruga, é uma garota levada, esperta, mas de bom coração. Em alguns episódios, demonstra algum interesse amoroso por Chaves, principalmente naqueles em que aparece a personagem Paty, da qual enfrenta concorrência. Também tem ciúmes do pai, porque faz de tudo para tirar qualquer mulher que apareça para ele, principalmente a Dona Clotilde, em seguida a Louca da Escada ou Glória. Apesar desse negativismo, chegou a ajudar alguns personagens, como Chaves, em um episódio que ela lhe dá o seu algodão-doce."
+        },
+        {
+            "id": 4,
+            "nome": "Nhonho (Ñoño)",
+            "ator": "Édgar Vivar",
+            "urlImagem": "https://raw.githubusercontent.com/orionteles/chavo/master/img/n.jpg",
+            "urlImagemCrianca": "https://raw.githubusercontent.com/orionteles/chavo/master/img/nBB.jpg",
+            "sexo": "Masculino",
+            "endereco": "Mansão do Senhor Barriga",
+            "biografia": "Filho do Senhor Barriga, adora comer. É muito usado para cobrir a ausência de um personagem, como a Chiquinha entre 1974 e 1975 e também na série animada, ou Quico em 1979 e nas sketchs do Programa Chespirito. É estudioso, sempre sendo o 1° da classe, mas às vezes dá umas mancadas. É também bastante egoísta, quando o assunto é comida, entretanto, costuma dividir com o Chaves livros, brinquedos e dinheiro, demonstrando assim, ser mais caridoso com o garoto órfão do que o Quico. O Nhonho, do mesmo jeito que seu pai, é alvo de piadas ligadas a sua obesidade. Quando alguém o xinga, ele usa o seguinte bordão: 'Olha ele (a), hem!' e também 'Ai minhas costas/meu estômago', quando é acertado por algum objeto."
+        },
+        {
+            "id": 5,
+            "nome": "Pópis",
+            "ator": "Florinda Meza",
+            "urlImagem": "https://raw.githubusercontent.com/orionteles/chavo/master/img/Popis.png",
+            "urlImagemCrianca": "https://raw.githubusercontent.com/orionteles/chavo/master/img/PopisBB.png",
+            "sexo": "Masculino",
+            "endereco": "Casa nº 8",
+            "biografia": "Uma garota mimada e de voz fanha, é sobrinha de Dona Florinda e prima do Quico. Sempre traz consigo a sua boneca Serafina. É muito vaidosa e algumas vezes quer mandar nos outros, sendo aproveitadora dos brinquedos do Quico. Devido a uma polêmica envolvendo sua voz fanha, ela teve de ser retirada do seriado por um tempo[carece de fontes] e retornou depois de um ano. Seus bordões são: 'Vai contar pra sua mãe, (personagem, geralmente Quico, no caso de Nhonho, Pópis diz pra este contar para seu pai.)', 'Mas eu vou te acusar!', 'Eu vou contar tudo para minha mãe!'"
+        }
+    ]
 }
