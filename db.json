@@ -52,5 +52,142 @@
             "endereco": "Casa nº 8",
             "biografia": "Uma garota mimada e de voz fanha, é sobrinha de Dona Florinda e prima do Quico. Sempre traz consigo a sua boneca Serafina. É muito vaidosa e algumas vezes quer mandar nos outros, sendo aproveitadora dos brinquedos do Quico. Devido a uma polêmica envolvendo sua voz fanha, ela teve de ser retirada do seriado por um tempo[carece de fontes] e retornou depois de um ano. Seus bordões são: 'Vai contar pra sua mãe, (personagem, geralmente Quico, no caso de Nhonho, Pópis diz pra este contar para seu pai.)', 'Mas eu vou te acusar!', 'Eu vou contar tudo para minha mãe!'"
         }
+    ],
+    "bordoes": [
+        {
+            "id": 1,
+            "bordao": "Isso, isso isso",
+            "personagem_id": 1
+        },
+        {
+            "id": 2,
+            "bordao": "Ninguém tem paciência comigo",
+            "personagem_id": 1
+        },
+        {
+            "id": 3,
+            "bordao": "Foi sem querer querendo",
+            "personagem_id": 1
+        },
+        {
+            "id": 4,
+            "bordao": "Ai, que burro! Dá zero pra ele!",
+            "personagem_id": 1
+        },
+        {
+            "id": 5,
+            "bordao": "Zás!",
+            "personagem_id": 1
+        },
+        {
+            "id": 6,
+            "bordao": "Tá bom, mas não se irrite!",
+            "personagem_id": 1
+        },
+        {
+            "id": 7,
+            "bordao": "Tudo eu, tudo eu!",
+            "personagem_id": 1
+        },
+        {
+            "id": 8,
+            "bordao": "Pi, pi, pi pi, pi... (choro)",
+            "personagem_id": 1
+        },
+        {
+            "id": 9,
+            "bordao": "Que coisa, não?!",
+            "personagem_id": 2
+        },
+        {
+            "id": 10,
+            "bordao": "Ai! Cale-se, cale-se, cale-se, você me deixa louco!",
+            "personagem_id": 2
+        },
+        {
+            "id": 11,
+            "bordao": "Você quer? Compra!",
+            "personagem_id": 2
+        },
+        {
+            "id": 12,
+            "bordao": "Com licencinha!",
+            "personagem_id": 2
+        },
+        {
+            "id": 13,
+            "bordao": "Gentalha, gentalha!",
+            "personagem_id": 2
+        },
+        {
+            "id": 14,
+            "bordao": "Diz que sim, não seja(s) mau, diga siiiimmm!!!",
+            "personagem_id": 2
+        },
+        {
+            "id": 15,
+            "bordao": "Sim! Pois é, pois é, pois é!",
+            "personagem_id": 3
+        },
+        {
+            "id": 16,
+            "bordao": "Ué, ué, ué, ué, ué!!! (choro)",
+            "personagem_id": 3
+        },
+        {
+            "id": 17,
+            "bordao": "Eu vou contar tudo pro meu pai que você me...",
+            "personagem_id": 3
+        },
+        {
+            "id": 18,
+            "bordao": "Ai, Chaves, o que você não tem de burro, você tem de burro!",
+            "personagem_id": 3
+        },
+        {
+            "id": 19,
+            "bordao": "Ai, Chaves você só não é mais burro por falta de vitaminas",
+            "personagem_id": 3
+        },
+        {
+            "id": 20,
+            "bordao": "Eu?",
+            "personagem_id": 3
+        },
+        {
+            "id": 21,
+            "bordao": "Papaizinho lindo, meu amor!",
+            "personagem_id": 3
+        },
+        {
+            "id": 22,
+            "bordao": "A filhinha do Madruguinha disse com licencinha.",
+            "personagem_id": 3
+        },
+        {
+            "id": 23,
+            "bordao": "Olha ele (a), hem!",
+            "personagem_id": 4
+        },
+        {
+            "id": 24,
+            "bordao": "Ai minhas costas/meu estômago",
+            "personagem_id": 4
+        },
+        {
+            "id": 25,
+            "bordao": "Vai contar pra sua mãe",
+            "personagem_id": 5
+        },
+        {
+            "id": 26,
+            "bordao": "Mas eu vou te acusar!",
+            "personagem_id": 5
+        },
+        {
+            "id": 26,
+            "bordao": "Eu vou contar tudo para minha mãe!",
+            "personagem_id": 5
+        }
     ]
 }
